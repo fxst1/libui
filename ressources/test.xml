@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressource type="css" link="./test.css"/>
+<window title="hello world" width="600" height="600">
+	<text>Text</text>
+	<button>Button</button>
+</window>

@@ -1,0 +1,14 @@
+window
+{
+	background: rgba(0, 0, 0, 0.5);
+}
+
+text
+{
+	color: red;
+}
+
+button
+{
+	background: #abc;
+}
